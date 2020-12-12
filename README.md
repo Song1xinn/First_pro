@@ -1,5 +1,41 @@
 # First_pro
-first github project for testing to create
+    纪念一下第一次打算自己再github上写一写东西
+    大四了居然才开始用（太菜了）
+    这个文件就用来记录README的写法8
+***
+标题就是在前面加'#'，几个'#'就是几级标题
+# 一级标题
+## 二级标题
+### 三级标题
+###### 六级标题
+***
+# 文本的写法
+### 普通文本
+普通的文本就是这个样子直接写就好了 
+但是不会换行 
+比如说现在 你以为我是在一行写的
+但是这段话我已经换了四行了
+想要换行的话就在后面加上<b(忽略括号和字)r>吧
 
-This is the first time I try to create my own github pro.
-It's Song, major in computer and science.
+### 单行文本
+	如果想要写一个单行文本 就像这样 就在文本前加Tab(4个空格！)，这里要与上面的一段话空一行呀（虽然最终效果看不到）
+
+### 文本块
+如果想要连续几行文本块
+
+	那
+	就是
+	每前面行都要一个Tab，或者直接换行就可以啦
+
+### 高亮设置
+`welcome` to my pro ! 在需要高亮的地方前后加一个单上引号（英文模式 键盘数字1左边按钮） 
+
+### 超链接
+	超链接怎么加呢 那就给我同样刚开始使用的CSDN打广告吧 
+可以直接复制超链接 https://blog.csdn.net/s1nnix?spm=1001.2100.3001.5113 <br>
+[我的CSDN]（https://blog.csdn.net/s1nnix?spm=1001.2100.3001.5113）<br>
+<br>
+未完待续 
+
+
+	
